@@ -1,2 +1,2 @@
-# GRS MA 681: Accelerated Introduction to Statistical Methods for Quantitative Research
-Introduction to statistical methods relevant to research in the computational sciences. Core topics include probability theory, estimation theory, hypothesis testing, linear models, GLMs, and experimental design. Emphasis on developing a firm conceptual understanding of the statistical paradigm through data analyses.
+# GRS MA 684: Applied Multiple Regression and Multivariable Methods
+Application of multivariate data analytic techniques. Multiple regression and correlation, confounding and interaction, variable selection, categorical predictors and outcomes, logistic regression, factor analysis, MANOVA, discriminant analysis, regression with longitudinal data, repeated measures, ANOVA. This course cannot be taken for credit in addition to the course with the same title that was previously numbered CAS MA 684.
